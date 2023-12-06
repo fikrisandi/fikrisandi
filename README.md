@@ -78,10 +78,10 @@ Informatics Engineering graduate who began a career as a Web Developer and UI/UX
   <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
 </a>
 <a href="https://scipy.org/">
-  <img align="left" alt="Scipy" title="Scipy" width="40px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
+  <img align="left" alt="Scipy" title="Scipy" width="40px" src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" />
 </a>
 <a href="https://seaborn.pydata.org/">
-  <img align="left" alt="Seaborn" title="Seaborn" width="40px" src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" />
+  <img align="left" alt="Seaborn" title="Seaborn" width="40px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
 </a>
 <br><br>
 
@@ -99,7 +99,7 @@ Informatics Engineering graduate who began a career as a Web Developer and UI/UX
 
 <p align="left">
     <a href="https://github.com/fikrisandi">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammad Fikri Sandi Pratama streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fikrisandi&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammad Fikri Sandi Pratama streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fikrisandi&theme=algolia"/>
     </a>
 <br/>
 <br/>
