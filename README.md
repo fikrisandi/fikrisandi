@@ -4,6 +4,7 @@ Informatics Engineering graduate who began a career as a Web Developer and UI/UX
 
 -   🔭 I’m currently studying on <a href="https://www.its.ac.id/id/beranda/">Informatics Engineering Sepuluh Nopember Institute of Technology</a>
 -   🌱 I’m interested in Data Science like Data Analyst, Data Scientist, and Data Engineer.
+-   :briefcase: My Portofolio Design : <a href="https://www.behance.net/mfikrisandip"> Design </a> , Model AI : <a href="https://huggingface.co/mfikrisandip36"> Model AI </a> , Visualization : <a href="https://public.tableau.com/app/profile/adam.santuy/vizzes"> Data Visualization </a> , Explore Knowledge : <a href="https://medium.com/@mfikrisandip"> Medium </a> , and anything : <a href="https://fikrisandi.github.io/CV/"> Profile </a> 
 -   📫 How to reach me : m.fikrisandi.p@gmail.com
 -   :briefcase: I provide design and software services : Software <a href="https://www.instagram.com/sive.technology/">Sive Tech</a> and Design <a href="https://www.instagram.com/sive.studio/">Sive Studio</a>
 
